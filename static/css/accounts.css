@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/congruent_outline.png);
+}
+
+.logo {
+    font-family: 'Acme', sans-serif;
+}
+
+.logo a {
+    color: rgba(192, 190, 190, 0.904);
+}
+
+.logo a:hover,
+.logo a:active {
+    text-decoration: none;
+}

@@ -1,0 +1,9 @@
+.thead-inverse th {
+    color: #fff;
+    background-color: #373a3c;
+}
+
+.navbar-brand {
+    font-family: 'Acme', sans-serif;
+    font-size: 1.45rem;
+}
